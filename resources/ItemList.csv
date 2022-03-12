@@ -1,0 +1,7 @@
+Item, Size, Strength, Cost, Description
+Small Healing Potion,Small,10,5,Heals 10 hp
+Medium Healing Potion,Medium,15,10,Heals 15 hp
+Large Healing Potion,Large,25,20,Heals 25 hp
+Small Magic Potion,Small,10,5,Restores 10 MP
+Medium Magic Potion,Medium,15,10,Restores 15 MP
+Large Magic Potion,Large,25,20,Restores 25 MP
